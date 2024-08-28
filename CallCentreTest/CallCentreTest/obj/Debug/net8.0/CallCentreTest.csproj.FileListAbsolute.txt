@@ -1,0 +1,14 @@
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\bin\Debug\net8.0\CallCentreTest.exe
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\bin\Debug\net8.0\CallCentreTest.deps.json
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\bin\Debug\net8.0\CallCentreTest.runtimeconfig.json
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\bin\Debug\net8.0\CallCentreTest.dll
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\bin\Debug\net8.0\CallCentreTest.pdb
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\obj\Debug\net8.0\CallCentreTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\obj\Debug\net8.0\CallCentreTest.AssemblyInfoInputs.cache
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\obj\Debug\net8.0\CallCentreTest.AssemblyInfo.cs
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\obj\Debug\net8.0\CallCentreTest.csproj.CoreCompileInputs.cache
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\obj\Debug\net8.0\CallCentreTest.dll
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\obj\Debug\net8.0\refint\CallCentreTest.dll
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\obj\Debug\net8.0\CallCentreTest.pdb
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\obj\Debug\net8.0\CallCentreTest.genruntimeconfig.cache
+C:\Users\Riad Rouf\source\repos\CallCentreTest\CallCentreTest\obj\Debug\net8.0\ref\CallCentreTest.dll
